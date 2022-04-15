@@ -1,6 +1,3 @@
 # LAB REPORT #1
 
-*this is kind of cool*
-
->what happens if i do this
-
+![Lab Report #1](https://yundukki.github.io/CSE-Lab-Report-1/)
